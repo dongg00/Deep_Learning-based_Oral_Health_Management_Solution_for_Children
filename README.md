@@ -36,7 +36,7 @@
 
 | 데이터 수집 Tool | 데이터 전처리 | 
 |--------|--------|
-| <img src="images/데이터수집.png" width="300"/> |<img src="images/데이터전처리.png" width="300"/> |
+| <img src="images/데이터수집.png" width="300"/> |<img src="images/전처리.png" width="300"/> |
 
 
 
