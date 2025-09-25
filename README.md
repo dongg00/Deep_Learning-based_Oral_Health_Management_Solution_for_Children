@@ -5,7 +5,7 @@
 </p>
 
 **치카츄(ChicaChew)** 는 어린이의 올바른 양치 습관 형성 문제와 보호자·교사의 관리 부담을 해결하기 위해  
-**MediaPipe 기반 랜드마크 추출, TCN·GRU 시계열 분류 모델, AR 실시간 피드백 및 게이미피케이션**을 결합하여  
+**MediaPipe 기반 랜드마크 추출, CNN·GRU 시계열 분류 모델, AR 실시간 피드백 및 게이미피케이션**을 결합하여  
 양치 동작 인식, 실시간 교정 피드백, 개인 맞춤형 구강 관리 리포트를 제공하는 **AI 기반 디지털 헬스케어 솔루션**입니다.
 ***
 
@@ -15,8 +15,9 @@
 | 구분       | 사용 기술 |
 |-----------|-----------|
 | 언어       | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
-| 주요 기술   | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat) ![Tavily](https://img.shields.io/badge/Tavily_API-FF6F00?style=flat) ![Pillow](https://img.shields.io/badge/Pillow-92C1F0?style=flat) ![Runway](https://img.shields.io/badge/Runway_Gen--4-FF007F?style=flat) |
-| 프레임워크/플랫폼 | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) |
+| 데이터 처리 | ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat&logo=opencv&logoColor=white) ![MediaPipe](https://img.shields.io/badge/MediaPipe-FF6F00?style=flat) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) |
+| 모델       | ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) ![RandomForest](https://img.shields.io/badge/RandomForest-228B22?style=flat) ![GRU](https://img.shields.io/badge/GRU-8A2BE2?style=flat) ![TCN](https://img.shields.io/badge/TemporalConvNet-4169E1?style=flat) |
+| 시각화/서비스 | ![Matplotlib](https://img.shields.io/badge/Matplotlib-003B57?style=flat&logo=plotly&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) |
 ***
 
 ## 시스템 아키텍처
