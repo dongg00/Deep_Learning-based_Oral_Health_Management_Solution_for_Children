@@ -15,9 +15,11 @@
 | 구분       | 사용 기술 |
 |-----------|-----------|
 | 언어       | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
-| 데이터 처리 | ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat&logo=opencv&logoColor=white) ![MediaPipe](https://img.shields.io/badge/MediaPipe-FF6F00?style=flat) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) |
-| 모델       | ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) ![RandomForest](https://img.shields.io/badge/RandomForest-228B22?style=flat) ![GRU](https://img.shields.io/badge/GRU-8A2BE2?style=flat) ![TCN](https://img.shields.io/badge/TemporalConvNet-4169E1?style=flat) |
-| 시각화/서비스 | ![Matplotlib](https://img.shields.io/badge/Matplotlib-003B57?style=flat&logo=plotly&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) |
+| 프레임워크 | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white) |
+| 데이터 처리 | ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat&logo=opencv&logoColor=white) ![MediaPipe](https://img.shields.io/badge/MediaPipe-FF6F00?style=flat) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) |
+| 모델       | ![CNN](https://img.shields.io/badge/CNN-000000?style=flat) ![GRU](https://img.shields.io/badge/GRU-8A2BE2?style=flat) ![CNN--GRU](https://img.shields.io/badge/CNN--GRU-4169E1?style=flat) |
+| 최적화     | ![Optuna](https://img.shields.io/badge/Optuna-5A67D8?style=flat) |
+| 시각화     | ![Matplotlib](https://img.shields.io/badge/Matplotlib-003B57?style=flat) ![Seaborn](https://img.shields.io/badge/Seaborn-0099CC?style=flat) |
 ***
 
 ## 시스템 아키텍처
